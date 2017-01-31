@@ -1,0 +1,92 @@
+ [2017-01-31 04:21:47] local.DEBUG: Message-ID: <a5fabac95ffbdd70d384213c225d808b@supportticket.app>
+Date: Tue, 31 Jan 2017 04:21:47 +0000
+Subject: [Ticket ID: BFOQPCTA6F] Ticket 7
+From: Support Ticket <support@supportticket.dev>
+To: jmcclena94@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Suppor Ticket Information</title>
+</head>
+<body>
+    <p>
+        Thank you Joe for contacting our support team. A support ticket has been opened for you. You will be notified when a response is made by email. The details of your ticket are shown below:
+    </p>
+
+    <p>Title: Ticket 7</p>
+    <p>Priority: low</p>
+    <p>Status: Open</p>
+
+    <p>
+        You can view the ticket at any time at http://supportticket.app:8000/tickets/BFOQPCTA6F
+    </p>
+
+</body>
+</html>
+
+[2017-01-31 05:01:58] local.DEBUG: Message-ID: <863398f789a8f4d2d0392a45fa47696a@supportticket.app>
+Date: Tue, 31 Jan 2017 05:01:58 +0000
+Subject: [Ticket ID: UCXETGRTGU] New Ticket
+From: Support Ticket <support@supportticket.dev>
+To: jmcclena94@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Suppor Ticket Information</title>
+</head>
+<body>
+    <p>
+        Thank you Joe for contacting our support team. A support ticket has been opened for you. You will be notified when a response is made by email. The details of your ticket are shown below:
+    </p>
+
+    <p>Title: New Ticket</p>
+    <p>Priority: high</p>
+    <p>Status: Open</p>
+
+    <p>
+        You can view the ticket at any time at http://supportticket.app:8000/tickets/UCXETGRTGU
+    </p>
+
+</body>
+</html>
+[2017-01-31 05:15:24] local.DEBUG: Message-ID: <75d397b19040bd559200023286830865@supportticket.app>
+Date: Tue, 31 Jan 2017 05:15:24 +0000
+Subject: [Ticket ID: KOY3SJE9VM] Newest Ticket
+From: Support Ticket <support@supportticket.dev>
+To: jmcclena94@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Suppor Ticket Information</title>
+</head>
+<body>
+    <p>
+        Thank you Joe for contacting our support team. A support ticket has been opened for you. You will be notified when a response is made by email. The details of your ticket are shown below:
+    </p>
+
+    <p>Title: Newest Ticket</p>
+    <p>Priority: high</p>
+    <p>Status: Open</p>
+
+    <p>
+        You can view the ticket at any time at http://supportticket.app:8000/tickets/KOY3SJE9VM
+    </p>
+
+</body>
+</html>
+  
